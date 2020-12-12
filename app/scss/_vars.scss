@@ -1,0 +1,16 @@
+$color-blue: #004161;
+$color-gold: #D5B07B;
+$bg-color: #E6DCDB;
+
+
+
+%section {
+  width: 100%;
+	min-height: 100vh;
+}
+
+%section-inner {
+  display: flex;
+	min-height: 100vh;
+	position: relative;
+}
